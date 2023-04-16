@@ -16,7 +16,7 @@ The Risper documentation is available [here](https://github.com/Synnech/risper/w
 ## Other
 
 ### Availability
-Risper is currently available as a pre-release, with the goal of implementing further improvements and gathering extensive user feedback.
+Risper is currently available as a [pre-release](https://github.com/Synnech/risper/releases), with the goal of implementing further improvements and gathering extensive user feedback.
 ### Updates
 
 All development updates and information can be found in the [discussions](https://github.com/Synnech/risper/discussions).
