@@ -1,6 +1,5 @@
 name: Feature Request
 description: Suggest an idea for our project
-title: "[FR] "
 labels: ["Type: Feature Request", "Status: New"]
 body:
   - type: markdown
