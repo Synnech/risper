@@ -1,6 +1,5 @@
 name: Bug Report
 description: File a report to help us address an error
-title: ""
 labels: ["Severity: N/A", "Status: New"]
 body:
   - type: markdown
