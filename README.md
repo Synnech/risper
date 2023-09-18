@@ -1,3 +1,5 @@
+## ⚠ Risper is defunct and discontinued. Refer to the [announcement](https://github.com/Synnech/risper/discussions/7) for more details.
+
 # [Risper](https://synnech.com/) &middot; [![License](https://img.shields.io/badge/License-Proprietary-blue)](https://github.com/Synnech/risper/blob/main/LICENSE.md) [![Software Type](https://img.shields.io/badge/Software-Closed--Source-red)](https://en.wikipedia.org/wiki/Proprietary_software) [![Dev Phase](https://img.shields.io/badge/Phase-Beta-lightgrey)](https://github.com/Synnech/risper/discussions)
 
 Risper is a beta, currently work in progress, effective remote administration tool.
